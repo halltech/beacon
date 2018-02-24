@@ -36,7 +36,7 @@ Smoothieboard 4x | 1 | any controller should work
 Aluminum Extrusions | | SEE BELOW
 
 
-You can either cut your extrusions to length yourself or have them cut to ship by a service such as Misumi(https://us.misumi-ec.com/) like we did. It is almost equivalent in price and shipping is much less because the pieces are shorter.
+You can either cut your extrusions to length yourself or have them cut to ship by a service such as [Misumi](https://us.misumi-ec.com/) like we did. It is almost equivalent in price and shipping is much less because the pieces are shorter.
 
 Extrusion Name | Type | Length | Quantity
 -------------- | ---- | ------ | --------
@@ -44,10 +44,10 @@ TODO
 
 ### Assembly
 TODO: make google slides assembly instructions and link
-Based on the assembly instructions(https://slides.google.com) assembly is rather straightforward. Some tips, however, are listed below:
+Based on the [assembly instructions](https://slides.google.com) assembly is rather straightforward. Some tips, however, are listed below:
 1. Do not tighten the t-nuts to tight, you will break the plastic.
 2. You cannot let the blocks slide off the linear rails. The bearings might fall out. I have done this.
-3. Read the Smoothieboard documentation(http://smoothieware.org/3d-printer-guide) THOURGHLY before plugging anything in. If you opt to use a different board (Ramps, Duet, etc.) read their respective docs. I have fried two Ramps boards in the past for the silliest of reasons.
+3. Read the [Smoothieboard documentation](http://smoothieware.org/3d-printer-guide) THOURGHLY before plugging anything in. If you opt to use a different board (Ramps, Duet, etc.) read their respective docs. I have fried two Ramps boards in the past for the silliest of reasons.
 
 
 ## Credits
