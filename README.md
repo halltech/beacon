@@ -40,13 +40,19 @@ You can either cut your extrusions to length yourself or have them cut to ship b
 
 Extrusion Name | Type | Length | Quantity
 -------------- | ---- | ------ | --------
+X Axis | 2020 | | 1
+Y Axis | 2040 | | 2
+Z Axis | 2040 | | 1
+Center Brace | 2040 | | 1
+Front/Back | 2040 | | 2
+
 TODO
 
 ### Assembly
 TODO: make google slides assembly instructions and link
 Based on the [assembly instructions](https://slides.google.com) assembly is rather straightforward. Some tips, however, are listed below:
 1. Do not tighten the t-nuts to tight, you will break the plastic.
-2. You cannot let the blocks slide off the linear rails. The bearings might fall out. I have done this.
+2. You cannot let the blocks slide off the linear rails. The bearings might fall out. I may or may not have done this.
 3. Read the [Smoothieboard documentation](http://smoothieware.org/3d-printer-guide) THOURGHLY before plugging anything in. If you opt to use a different board (Ramps, Duet, etc.) read their respective docs. I have fried two Ramps boards in the past for the silliest of reasons.
 
 
