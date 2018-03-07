@@ -54,12 +54,13 @@ Based on the [assembly instructions](https://slides.google.com) assembly is rath
 1. Do not tighten the t-nuts to tight, you will break the plastic.
 2. You cannot let the blocks slide off the linear rails. The bearings might fall out. I may or may not have done this.
 3. Read the [Smoothieboard documentation](http://smoothieware.org/3d-printer-guide) THOURGHLY before plugging anything in. If you opt to use a different board (Ramps, Duet, etc.) read their respective docs. I have fried two Ramps boards in the past for the silliest of reasons.
-
+Google Slides presentation also available [here](documentation/assembly.pdf) in PDF format
 
 ## Credits
 Developed and Designed by:
 - Matthew Hall [[@MH15](https://github.com/MH15)]
 - Peter Hall [[@peterhall16](https://github.com/peterhall16)]
+Contact me (text preferred) at +19378464465 if you have any questions or need assistance in clarifying these shoddy instructions.
 
 Many thanks to:
 - The folks over at the [Reprap Forum](http://forums.reprap.org) for provided such a condensed pool of knowledge.
