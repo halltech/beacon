@@ -60,6 +60,7 @@ Google Slides presentation also available [here](documentation/assembly.pdf) in 
 Developed and Designed by:
 - Matthew Hall [[@MH15](https://github.com/MH15)]
 - Peter Hall [[@peterhall16](https://github.com/peterhall16)]
+
 Contact me (text preferred) at +19378464465 if you have any questions or need assistance in clarifying these shoddy instructions.
 
 Many thanks to:
