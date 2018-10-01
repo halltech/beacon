@@ -3,7 +3,7 @@
 ## About
 The third iteration in our quest to build a custom 3D printer has finally succeeded to a point where we can release our work to the public. We hope this model will provide a price-efficient route for those making their own 3D printers as well as a high quality machine for experimentation and design.
 
-This project would not have been possible without the awesome support from the Reprap community as exhibited in several [forum](https://reprap.org/forum/read.php?1,807842,page=1) [posts](https://reprap.org/forum/read.php?397,796724,821423#msg-821423).
+This project would not have been possible without the awesome support from the Reprap community as exhibited in several [forum posts](https://reprap.org/forum/read.php?1,807842,page=1).
 
 ### Design Goals
 While the goals of this project evolved over time, we feel these ideas impacted Beacon the most:
